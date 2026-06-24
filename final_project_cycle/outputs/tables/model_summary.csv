@@ -1,0 +1,9 @@
+Metric,Value
+N,11287.0
+R-squared,0.008301774659550953
+Adjusted R-squared,0.007862231079486914
+F-statistic p-value,9.434819413550942e-19
+OLS coefficient for physical activity days,-0.2670016828287197
+OLS p-value for physical activity days,0.009702575906515555
+WLS coefficient for physical activity days,-0.1793104325936333
+WLS p-value for physical activity days,0.08482415034889712
