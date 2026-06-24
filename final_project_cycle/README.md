@@ -5,7 +5,7 @@ Name: 黃立帆
 Student ID: 112370206
 
 ## Project Repository
-https://github.com/t112370206/final_project_cycle/upload
+[https://github.com/t112370206/final_project_cycle/upload](https://github.com/t112370206/final_project_cycle)
 ## Presentation Video
 https://youtu.be/u4-4D1LVlSw
 
